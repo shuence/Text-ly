@@ -21,8 +21,7 @@ Live View of the app
 
 
 Download It on Windows :
-![image](https://user-images.githubusercontent.com/65482186/132472923-5c49641e-c660-44f3-b4dd-a22b0fca5936.png)
-
+![image](https://user-images.githubusercontent.com/65482186/132475801-b386708e-e23e-43cf-a37b-ffbc7acce7ff.png)
 ## 🚀 About Me
 
 I'm a Programm
