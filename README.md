@@ -17,6 +17,11 @@ Contributions are always welcome!
 ## Demo
 
 Live View of the app
+![image](https://user-images.githubusercontent.com/65482186/132472725-1381047f-4e9c-407c-bcd2-19ee7c3c91ea.png)
+
+
+Download It on Windows :
+![image](https://user-images.githubusercontent.com/65482186/132472923-5c49641e-c660-44f3-b4dd-a22b0fca5936.png)
 
 ## 🚀 About Me
 
