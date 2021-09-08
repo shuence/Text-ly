@@ -29,7 +29,7 @@ Download It on Windows :
 [![image](https://user-images.githubusercontent.com/65482186/132475801-b386708e-e23e-43cf-a37b-ffbc7acce7ff.png)](https://mega.nz/file/fo0AlSBa#dXVakF4DTOhV3B9fhISqz8b-MsJV5gBO3igIwMjFUuU)
 ## 🚀 About Me
 
-I'm a Programm
+I'm a Programmer
 
 # Hi, I'm Shuence! 👋
 
