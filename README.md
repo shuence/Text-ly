@@ -18,16 +18,13 @@ Contributions are always welcome!
 
 Live View of the app
 
-
-![image](https://user-images.githubusercontent.com/65482186/132472725-1381047f-4e9c-407c-bcd2-19ee7c3c91ea.png)
-
+![image](Text.ly.png)
 
 Download It on Windows :
 
 [![Download Text-ly](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/text-ly/files/latest/download)
 
 [![image](https://user-images.githubusercontent.com/65482186/132475801-b386708e-e23e-43cf-a37b-ffbc7acce7ff.png)](https://mega.nz/file/fo0AlSBa#dXVakF4DTOhV3B9fhISqz8b-MsJV5gBO3igIwMjFUuU)
-
 
 ## 🚀 About Me
 
